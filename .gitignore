@@ -1,0 +1,41 @@
+# =============== #
+# Unity generated #
+# =============== #
+Space Ball/[Tt]emp/
+Space Ball/[Oo]bj/
+Space Ball/[Bb]uilds/
+Space Ball/[Ll]ibrary/
+Space Ball/[Ll]ibrary_ANDROID/
+Space Ball/[Ll]ibrary_PC/
+Space Ball/[Ll]ibrary_IOS/
+Space Ball/sysinfo.txt
+Space Ball/UnityVS/
+Space Ball/UnityVS.meta
+Space Ball/LightingData*
+Space Ball/ReflectionProbe*
+Space Ball/Assets/Scenes/Personal Scenes*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+Space Ball/[Ee]xported[Oo]bj/
+Space Ball/*.userprefs
+Space Ball/*.csproj
+Space Ball/*.pidb
+Space Ball/*.suo
+Space Ball/*.sln*
+Space Ball/*.user
+Space Ball/*.unityproj
+Space Ball/*.booproj
+
+# ============
+# OS generated
+# ============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Thumbs.db.meta
